@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAHHULYS
-- 👀 I’m interested in ui\ux design , Web development
+- 👀 I’m interested in  Web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me rahulreddyysr@gmail.com
