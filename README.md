@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAHULYS
-- 👀 I’m interested in  Web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in  Web development, LLM, AI Agents.
+- 🌱 I’m currently GenAI.
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me rahulreddyysr@gmail.com
 
