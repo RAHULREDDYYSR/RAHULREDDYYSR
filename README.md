@@ -37,9 +37,6 @@
     <a href="https://www.leetcode.com/rahul_y_s" target="blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="rahul_y_s" />
     </a>
-    <a href="https://www.hackerearth.com/rahulreddyysr" target="blank">
-      <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="rahulreddyysr" />
-    </a>
   </p>
 </div>
 
