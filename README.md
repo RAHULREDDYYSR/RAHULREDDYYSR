@@ -126,11 +126,13 @@
 <br>
 
 <div align="center">
-  <h3>📊 My Stats</h3>
-  <p>
+  <h3>�� My Stats</h3>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddyysr&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddyysr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreddyysr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreddyysr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  </p>
 </div>
