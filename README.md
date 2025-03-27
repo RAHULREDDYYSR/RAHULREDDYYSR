@@ -8,13 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulreddyysr&label=Profile%20views&color=0e75b6&style=flat-square" alt="rahulreddyysr" />
-  <a href="https://twitter.com/rahulys3" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rahulys3?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=ffffff" alt="rahulys3" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
@@ -33,19 +26,19 @@
   <h3>🤝 Connect with me</h3>
   <p>
     <a href="https://twitter.com/rahulys3" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulys3" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rahulys3" />
     </a>
     <a href="https://linkedin.com/in/rahul-y-s" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-y-s" height="30" width="40" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rahul-y-s" />
     </a>
     <a href="https://instagram.com/_thelightbringer_" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thelightbringer_" height="30" width="40" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_thelightbringer_" />
     </a>
     <a href="https://www.leetcode.com/rahul_y_s" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_y_s" height="30" width="40" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="rahul_y_s" />
     </a>
     <a href="https://www.hackerearth.com/rahulreddyysr" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rahulreddyysr" height="30" width="40" />
+      <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="rahulreddyysr" />
     </a>
   </p>
 </div>
@@ -138,12 +131,9 @@
 <div align="center">
   <h3>📊 My Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulreddyysr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulreddyysr" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&locale=en&theme=tokyonight" alt="rahulreddyysr" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddyysr&theme=tokyonight" alt="rahulreddyysr" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddyysr&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddyysr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulreddyysr&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreddyysr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
