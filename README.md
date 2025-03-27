@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAHUL Y S</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulreddyysr&label=Profile%20views&color=0e75b6&style=flat" alt="rahulreddyysr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahulys3" target="blank"><img src="https://img.shields.io/twitter/follow/rahulys3?logo=twitter&style=for-the-badge" alt="rahulys3" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Gen-ai apps**
 
