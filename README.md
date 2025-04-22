@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+RAHUL+Y+S;A+passionate+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7¢er=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+RAHUL+Y+S;A+passionate+Data+Scientist" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=⚙️+Backend+Developer;💻+Data+Scientist;🤖+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7¢er=true&vCenter=true&width=435&lines=⚙️+Backend+Developer;💻+Data+Scientist;🤖+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -130,15 +130,19 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddyysr&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Top Languages" />
+        <!-- Added &cache_seconds=3600 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddyysr&layout=compact&theme=tokyonight&hide=html,css,javascript&cache_seconds=3600" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&theme=tokyonight&hide=contribs,issues" alt="GitHub Stats" />
+        <!-- Added &cache_seconds=3600 -->
+        <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&theme=tokyonight&hide=contribs,issues&cache_seconds=3600" alt="GitHub Stats" />
       </td>
       <td>
+        <!-- Streak stats often update daily; cache control might not be supported or needed as much -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddyysr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
+  <!-- Activity graph usually updates daily; cache control might not be supported -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreddyysr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
