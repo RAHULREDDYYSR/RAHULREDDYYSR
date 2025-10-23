@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=⚙️+Backend+Developer;💻+Data+Scientist;🤖+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=⚙️+Backend+Developer;💻+Data+Scientist;🤖+AI+Engineer" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -15,7 +15,7 @@
   <p>
     🔭 I'm currently working on <b>Gen-ai apps</b><br>
     🌱 I'm currently learning <b>Gen-AI, AI-agents</b><br>
-    💬 Ask me about <b>node, llm's, database</b><br>
+    💬 Ask me about <b>ml, dl, llm's, database</b><br>
     📫 How to reach me <b>rahulreddyysr@gmail.com</b>
   </p>
 </div>
