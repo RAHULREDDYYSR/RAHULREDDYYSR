@@ -64,21 +64,4 @@
 
 <br>
 
-<div align="center">
-  <h3>📊 My Stats</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulreddyysr&layout=compact&theme=tokyonight&hide=html,css,javascript&cache_seconds=1800" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rahulreddyysr&show_icons=true&theme=tokyonight&hide=contribs,issues&cache_seconds=1800" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreddyysr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulreddyysr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+     
