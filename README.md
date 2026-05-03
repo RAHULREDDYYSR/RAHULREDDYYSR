@@ -49,28 +49,28 @@
   <table align="center">
     <tr>
       <td align="center" width="90">
+        <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="42" height="42" alt="LangChain" />
+        </a>
+        <br><sub><b>LangChain</b></sub>
+      </td>
+      <td align="center" width="90">
+        <a href="https://openai.com/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42" alt="OpenAI" />
+        </a>
+        <br><sub><b>OpenAI</b></sub>
+      </td>
+      <td align="center" width="90">
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
+        </a>
+        <br><sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="90">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
         </a>
         <br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="90">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-        </a>
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="90">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-        </a>
-        <br><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="90">
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" alt="Express" />
-        </a>
-        <br><sub><b>Express</b></sub>
       </td>
       <td align="center" width="90">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
