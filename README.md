@@ -56,7 +56,7 @@
       </td>
       <td align="center" valign="middle" width="90">
         <a href="https://openai.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="42" height="42" alt="OpenAI" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42" alt="OpenAI" />
         </a>
         <br><sub><b>OpenAI</b></sub>
       </td>
