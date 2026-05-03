@@ -48,31 +48,31 @@
   <!-- Uniform icon grid (works well on GitHub README) -->
   <table align="center">
     <tr>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://langchain.com/" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="42" height="42" alt="LangChain" />
         </a>
         <br><sub><b>LangChain</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://openai.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42" alt="OpenAI" />
+          <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="42" height="42" alt="OpenAI" />
         </a>
         <br><sub><b>OpenAI</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
         </a>
         <br><sub><b>FastAPI</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
         </a>
         <br><sub><b>Python</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git" />
         </a>
@@ -80,31 +80,31 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
         </a>
         <br><sub><b>PostgreSQL</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
         </a>
         <br><sub><b>MongoDB</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
         </a>
         <br><sub><b>MySQL</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="42" height="42" alt="SQLite" />
         </a>
         <br><sub><b>SQLite</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman" />
         </a>
@@ -112,31 +112,31 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" />
         </a>
         <br><sub><b>Pandas</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" alt="scikit-learn" />
         </a>
         <br><sub><b>sklearn</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42" alt="TensorFlow" />
         </a>
         <br><sub><b>TF</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="42" height="42" alt="Heroku" />
         </a>
         <br><sub><b>Heroku</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" valign="middle" width="90">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
         </a>
