@@ -1,0 +1,14 @@
+{
+  "name": "rahul-github-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "profilectl check --config profile.yaml",
+    "build": "node build.mjs",
+    "preview": "node build.mjs --preview"
+  },
+  "dependencies": {
+    "profile-control-plane": "git+https://github.com/majiayu000/profile-control-plane.git#3348f8e0d5e3a2ff2cce9a50e16396a65909718f"
+  },
+  "engines": { "node": ">=22.12" }
+}
